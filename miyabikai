@@ -8,7 +8,7 @@
 
         <!--googlefont-->
         <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700,900&display=swap&subset=japanese" rel="stylesheet">
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style2.css">
         
         <!--ファビコン-->
         <link rel="icon" href="logo_03.png" type="image/png">
